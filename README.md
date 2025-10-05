@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Shakir Hossain
-- 👀 I’m interested in Automation testing.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-hossainks/hossainks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Khandakar Shakir Hossain. I have 10+ years in software testing and 3+ years in automation, specializing in API testing, microservices validation, and CRM integration. Skilled in designing scalable automation frameworks, integrating CI/CD pipelines, and improving release stability. Leveraged AI-driven solutions such as Playwright MCP Server, GitHub Copilot, and LLMs (ChatGPT, Claude) to streamline automation, cutting test creation effort by 35% and increasing coverage. Experienced in guiding QA teams and implementing process improvements for large-scale enterprise applications. Collaborates effectively with cross-functional teams to deliver high-quality products while leading QA teams and driving process improvements for enterprise-level applications.
