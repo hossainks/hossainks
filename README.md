@@ -1,1 +1,26 @@
-Hi, I’m Khandakar Shakir Hossain. I have over 10 years of experience in software testing and more than 3 years in automation, specializing in API testing, microservices validation, and CRM integration. I am skilled in designing scalable automation frameworks, integrating CI/CD pipelines, and improving release stability. I have leveraged AI-driven solutions such as Playwright MCP Server, GitHub Copilot, and LLMs (ChatGPT, Claude) to streamline automation, reducing test creation effort by 35% and increasing coverage. I am experienced in guiding QA teams and implementing process improvements for large-scale enterprise applications. I collaborate effectively with cross-functional teams to deliver high-quality products while leading QA initiatives and driving continuous improvement across projects.
+# Hi, I'm Khandakar Shakir Hossain 👋
+
+### SDET | QA Automation | AI-Assisted Testing
+
+🔭 Currently SDET at Field Nation (Minnesota, USA)
+🌱 Building multi-agent AI systems for QA
+💼 12+ years in QA, 6+ years in automation
+📍 Based in Dhaka, Bangladesh
+
+### 🛠️ Tech Stack
+- **Automation:** Playwright, Cucumber, Jest
+- **Languages:** JavaScript, TypeScript, Python
+- **AI/LLM:** Playwright MCP, AutoGen, Claude CLI, Copilot
+- **API:** Postman, Newman, REST Assured
+- **DevOps:** Docker, Kubernetes, GitHub Actions
+- **Cloud:** AWS, Datadog
+
+### 🎯 Featured Projects
+- 🤖 Multi-agent AI system with AutoGen
+- 🔧 Self-healing test framework with Playwright AI
+- 📊 Claude agent skills for QA standards
+- 🔄 Autonomous REST API testing workflow
+
+### 📫 Connect
+- LinkedIn: [your-linkedin]
+- Email: khandakarshakir.cse@gmail.com
