@@ -22,5 +22,5 @@
 - 🔄 Autonomous REST API testing workflow
 
 ### 📫 Connect
-- LinkedIn: [your-linkedin]
+- LinkedIn: https://www.linkedin.com/in/kshahossain/
 - Email: khandakarshakir.cse@gmail.com
