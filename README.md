@@ -14,7 +14,7 @@
 - **Automation:** Playwright, Cucumber, Jest
 - **Languages:** JavaScript, TypeScript, Python
 - **AI/LLM:** Playwright MCP, AutoGen, Claude CLI, Copilot
-- **API:** Postman, Newman, REST Assured
+- **API:** Postman, Newman
 - **DevOps:** Docker, Kubernetes, GitHub Actions
 - **Cloud:** AWS, Datadog
 
