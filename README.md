@@ -3,9 +3,7 @@
 ### SDET | QA Automation | AI-Assisted Testing
 
 🔭 Currently SDET at Field Nation (Minnesota, USA)  
-🌱 Building multi-agent AI systems for QA  
 💼 12+ years in QA, 6+ years in automation  
-📍 Based in Dhaka, Bangladesh
 
 ---
 
