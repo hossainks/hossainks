@@ -11,7 +11,7 @@
 
 - **Automation:** Playwright, Cucumber, Jest
 - **Languages:** JavaScript, TypeScript, Python
-- **AI/LLM:** Playwright MCP, AutoGen, Claude CLI, Copilot
+- **AI/LLM:** Playwright MCP, AutoGen, Claude CLI, GitHub Copilot
 - **API:** Postman, Newman
 - **DevOps:** Docker, Kubernetes, GitHub Actions
 - **Cloud:** AWS, Datadog
