@@ -20,15 +20,6 @@
 
 ---
 
-### 🎯 Featured AI Projects
-
-- 🤖 Multi-agent AI system with AutoGen
-- 🔧 Self-healing test framework with Playwright AI
-- 📊 Claude agent skills for QA standards
-- 🔄 Autonomous REST API testing workflow
-
----
-
 ### 📈 Impact Highlights
 
 - ⚡ Reduced regression test time by **50%**
